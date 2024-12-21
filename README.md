@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: the `ZeroDivisionError`. The `bug.py` file contains a function that can cause this error if the second argument is zero. The `bugSolution.py` file shows how to handle this error using a `try-except` block.
